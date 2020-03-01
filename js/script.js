@@ -16,8 +16,8 @@ function validateForm() {
   }
   
 $(document).ready(function(){
-    $("#checky").click(function(){
-        $("#myForm").toggle("5000")
+    $("#checking").click(function(){
+        $("#frm").toggle("5000")
     });
 });
 function Results (type,size,crust,toppings) {

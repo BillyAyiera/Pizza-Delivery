@@ -39,8 +39,9 @@
     color: white;
     font-family: "Yeon Sung", cursive;
   }
-  #myForm {
+  #frm {
     display:none;
+    text-align: center;
   }
   .quote {
     font-size: 1.2em;
