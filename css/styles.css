@@ -33,15 +33,20 @@
     color: pink;
     font-size: 2.3em;
   }
+  #about{
+      text-align: center;
+  }
   .para {
     text-align: center;
     font-size: 1.7em;
     color: white;
     font-family: "Yeon Sung", cursive;
   }
-  #frm {
+  #about {
+    background-color: black;
+  }
+  #myForm {
     display:none;
-    text-align: center;
   }
   .quote {
     font-size: 1.2em;
