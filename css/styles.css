@@ -8,7 +8,7 @@
   }
   #home {
     background-image: url(https://bit.ly/39dzpYT);
-    height: 100vh;
+    height: 91vh;
     background-size: cover;
     background-attachment: fixed;
   }
@@ -30,10 +30,10 @@
   }
   h2 {
     text-align: center;
-    color: pink;
+    color:red;
     font-size: 2.3em;
   }
-  #about{
+  #menu{
       text-align: center;
   }
   .para {
@@ -41,9 +41,6 @@
     font-size: 1.7em;
     color: white;
     font-family: "Yeon Sung", cursive;
-  }
-  #about {
-    background-color: black;
   }
   #myForm {
     display:none;
@@ -59,10 +56,11 @@
   }
   #contact {
     background-color :black;
+    padding-top: 2%;
   }
-  .ppp {
+  /* .ppp {
     color:white;
-  }
+  } */
   h5 {
     color:pink;
   }
