@@ -30,7 +30,7 @@
   }
   h2 {
     text-align: center;
-    color:red;
+    color:black;
     font-size: 2.5em;
   }
   #menu{
@@ -56,21 +56,18 @@
     text-align: center;
   }
   #contact {
-    background:black;
+    background:#343a40;
     padding-top: 2%;
   }
   /* .ppp {
     color:white;
   } */
   h5 {
-    color:pink;
-  }
-  #subscription {
-    text-align: center;
-  }
-  .papa {
-    font-size:20px;
+    color:black;
   }
   .pp {
   height:80vh;
+  }
+  .form-group{
+    color: black;
   }
