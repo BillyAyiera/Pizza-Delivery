@@ -33,37 +33,20 @@
     color:black;
     font-size: 2.5em;
   }
+  h5 {
+    color:black;
+  }
   #menu{
       text-align: center;
       color:white;
   }
-  .para {
-    text-align: center;
-    font-size: 1.7em;
-    color: white;
-    font-family: "Yeon Sung", cursive;
-  }
   #myForm {
     display:none;
-  }
-  .quote {
-    font-size: 1.2em;
-    color: aqua;
-    font-family: "Yeon Sung", cursive;
-  }
-  .heads {
-    border-bottom:2px solid black;
-    text-align: center;
   }
   #contact {
     background:#343a40;
     padding-top: 2%;
-  }
-  /* .ppp {
-    color:white;
-  } */
-  h5 {
-    color:black;
+    padding-bottom: 1%;
   }
   .pp {
   height:80vh;
