@@ -71,7 +71,7 @@ $(document).ready(function(){
         }else{
             if(pizzaPick===2){
                var location= prompt(" Where would your like your Pizza to be Delivered? ");
-               var locations =["gpo", "ngong plaza", "trm", "cbd", "ngong road"]
+               var locations =["nairobi", "gpo", "ngong", "ngong lane plaza", "trm", "cbd", "ngong road"]
                if((location !== locations[0]) && (location !== locations[1]) && (location !== locations[2]) && (location !== locations[3])){
                 alert("Choose a location listed below")
                 alert(locations)
@@ -88,4 +88,3 @@ $(document).ready(function(){
         }
 })
 });
-z
