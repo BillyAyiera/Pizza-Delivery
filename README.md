@@ -5,7 +5,7 @@
 - This is a  `Pizza-Website`. It is created for JustPizza shop where it displays what we have offer. It is  also a platform for one to Order and have pizza delivered at their own comfort.
 
 ## Deployment
-- You can vist the site directly by clicking [HERE]()
+- You can vist the site directly by clicking [HERE](https://billyayiera.github.io/Pizza-Delivery/)
 - To view the source codes on github click [HERE](https://github.com/BillyAyiera/Pizza-Delivery)
 
 ## Technologies Used
